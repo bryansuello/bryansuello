@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[![suello.tech](./dragon.png)](https://suello.com)
+[![suello.tech](./dragon.png)](https://suello.tech)
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.tech/)
 &nbsp;&nbsp;
