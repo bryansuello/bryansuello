@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love watching anime 😻
-- 📫 How to reach me: suello.tech@gmail.com
+- 📫 How to reach me: suello.tech@protonmail.com
 
 ### Connect with me:
 
