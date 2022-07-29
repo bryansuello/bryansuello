@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img src="./logo.png" width="40px">](https://suello.tech)
+[<img src="./logo.png" width="35px">](https://suello.tech)
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.tech/)
 &nbsp;&nbsp;
