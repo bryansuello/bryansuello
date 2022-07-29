@@ -1,9 +1,9 @@
 
 <img alt="banner" width="100%" src="./github-banner.jpg" />
 
-# Hi there, I'm [Bryan](https://suello.tech) 👋
+# I'm [Bryan](https://suello.tech) 👋
 
-## I'm a Full-Stack Web Developer
+## Full-Stack Web Developer
 
 ### Connect with me:
 
