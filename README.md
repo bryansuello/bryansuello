@@ -5,12 +5,6 @@
 
 ## I'm a Full-Stack Web Developer
 
-- 🔭 I’m currently working on fun projects
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love watching anime 😻
-- 📫 How to reach me: suello.tech@protonmail.com
-
 ### Connect with me:
 
 [<img src="./logo.png" width="35px">](https://suello.tech)
