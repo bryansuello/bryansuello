@@ -1,5 +1,5 @@
 
-<img alt="banner" width="100%" src="./profile.jpg" />
+<img alt="banner" width="100%" src="./github-banner.jpg" />
 
 # Hi there, I'm [Bryan](https://suello.tech) 👋
 
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[![suello.tech](./dragon.png)](https://suello.tech)
+[![suello.tech](./logo.png)](https://suello.tech)
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.tech/)
 &nbsp;&nbsp;
