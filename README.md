@@ -1,13 +1,13 @@
 
 <img alt="banner" width="100%" src="./github-banner.jpg" />
 
-# I'm [Bryan](https://suello.tech) 👋
+# I'm [Bryan](https://bryansuello.dev) 👋
 
 ## Full-Stack Web Developer
 
 ### Connect with me:
 
-[<img src="./logo.png" width="35px">](https://suello.tech)
+[<img src="./logo.png" width="35px">](https://bryansuello.dev)
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.tech/)
 &nbsp;&nbsp;
