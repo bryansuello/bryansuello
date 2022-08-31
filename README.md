@@ -1,5 +1,5 @@
 
-<img alt="banner" width="100%" src="./github-banner.jpg" />
+<img alt="banner" width="100%" src="./github banner.jpg" />
 
 # I'm [Bryan](https://bryansuello.dev) 👋
 
