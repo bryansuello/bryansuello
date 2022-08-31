@@ -9,7 +9,7 @@
 
 [<img src="./logo.png" width="35px">](https://bryansuello.dev)
 &nbsp;&nbsp;
-[![instagram](./insta.png)](https://www.instagram.com/suello.tech/)
+[![instagram](./insta.png)](https://www.instagram.com/suello.dev/)
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
