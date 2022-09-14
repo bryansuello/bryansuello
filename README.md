@@ -36,6 +36,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br><br><br>
 ___
+<br>
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/></a>
 
 
