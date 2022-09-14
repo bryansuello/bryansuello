@@ -76,5 +76,5 @@ ___
 <em>"Let your results do the talking."</em>
 
 
-  <iframe src="https://gifer.com/embed/9oDj" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe>
+  <img src="https://gifer.com/embed/9oDj" width="100%" height="100%" style='position:absolute;top:0;left:0;' />
  
