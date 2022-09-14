@@ -79,7 +79,7 @@ ___
 <!-- KOBE -->
 <div>
   <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="230px" align="left" />
-  <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" height="123px" align="center" style="margin-left: 20px;" />
+  <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" height="123px" align="center" style="margin-left: 20px; padding-right: 20px;" />
   <em>"Let your results do the talking."</em>
 </div>
  
