@@ -77,5 +77,5 @@ ___
   
 
 <!-- KOBE -->
-  <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="250px" align="center" />
+  <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="200px" align="center" />
 
