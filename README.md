@@ -14,9 +14,9 @@
 [![behance](./behance.png)](https://www.behance.net/bryansuello) -->
 
 <div>
-<a href="https://bryansuello.dev><img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dragonframe&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="WEBSITE"></a>
-<a href="https://www.instagram.com/suello.dev/"><img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM"></a>
-<a href="https://www.behance.net/bryansuello/"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE"></a>
+<a href="https://bryansuello.dev/"><img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dragonframe&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="WEBSITE" target="_blank" ></a>
+<a href="https://www.instagram.com/suello.dev/"><img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM" target="_blank" ></a>
+<a href="https://www.behance.net/bryansuello/"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE" target="_blank" ></a>
 </div>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
