@@ -26,26 +26,26 @@
 <img src="https://img.shields.io/badge/-TAILWIND-052465?logo=tailwindcss&logoColor=06B6D4&style=for-the-badge&logoWidth=30" alt="TAILWIND">
   </div>
   <div>
-<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT">
-<img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT">
-<img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="REACT">
-<img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="NODE">
-<img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MONGODB">
-<img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHP">
-<img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LARAVEL">
+<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=F7DF1E&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT">
+<img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=3178C6&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT">
+<img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="REACT">
+<img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NODE">
+<img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MONGODB">
+<img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=777BB4&style=for-the-badge&logoWidth=30" alt="PHP">
+<img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="LARAVEL">
   </div>
   <div>
-<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT">
-<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX">
-<img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH">
-<img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LUA">
+<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="GIT">
+<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=241F31&style=for-the-badge&logoWidth=30" alt="LINUX">
+<img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=4EAA25&style=for-the-badge&logoWidth=30" alt="BASH">
+<img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=2C2D72&style=for-the-badge&logoWidth=30" alt="LUA">
 <img src="https://img.shields.io/badge/-VIMSCRIPT-052465?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT">
-<img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MARKDOWN">
+<img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="MARKDOWN">
   </div>
   <div>
-<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP">
-<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=adobeillustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR">
-<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA">
+<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP">
+<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=adobeillustrator&logoColor=FF9A00&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR">
+<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=F24E1E&style=for-the-badge&logoWidth=30" alt="FIGMA">
   </div>
 
 <!--
