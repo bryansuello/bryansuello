@@ -35,12 +35,12 @@
 <img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="LARAVEL">
   </div>
   <div>
-<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="GIT">
-<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=241F31&style=for-the-badge&logoWidth=30" alt="LINUX">
-<img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=4EAA25&style=for-the-badge&logoWidth=30" alt="BASH">
-<img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=2C2D72&style=for-the-badge&logoWidth=30" alt="LUA">
-<img src="https://img.shields.io/badge/-VIMSCRIPT-052465?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT">
-<img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="MARKDOWN">
+<img src="https://img.shields.io/badge/-GIT-eccc6a?logo=git&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="GIT">
+<img src="https://img.shields.io/badge/-LINUX-eccc6a?logo=linux&logoColor=241F31&style=for-the-badge&logoWidth=30" alt="LINUX">
+<img src="https://img.shields.io/badge/-BASH-eccc6a?logo=gnometerminal&logoColor=4EAA25&style=for-the-badge&logoWidth=30" alt="BASH">
+<img src="https://img.shields.io/badge/-LUA-eccc6a?logo=lua&logoColor=2C2D72&style=for-the-badge&logoWidth=30" alt="LUA">
+<img src="https://img.shields.io/badge/-VIMSCRIPT-eccc6a?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT">
+<img src="https://img.shields.io/badge/-MARKDOWN-eccc6a?logo=markdown&logoColor=000000&style=for-the-badge&logoWidth=30" alt="MARKDOWN">
   </div>
   <div>
 <img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP">
