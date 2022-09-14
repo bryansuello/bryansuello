@@ -31,10 +31,10 @@
 <img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LARAVEL"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-BASH-052465?logo=bash&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=photoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=illustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA"  align="left" style="padding: 10px 4px;">
+<img src="https://img.shields.io/badge/-BASH-052465?logo=terminal&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH"  align="left" style="padding: 10px 4px;">
+<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP"  align="left" style="margin: 10px 4px;">
+<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=adobeillustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR"  align="left" style="margin: 10px 4px;">
+<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA"  align="left" style="margin: 10px 4px;">
 
 <!--
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
