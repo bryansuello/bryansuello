@@ -12,7 +12,8 @@
 [![instagram](./insta.png)](https://www.instagram.com/suello.dev/)
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
-[![instagram]("https://img.shields.io/badge/-WEBSITE-eccc6a?logo=vim&logoColor=019733&style=for-the-badge&logoWidth=30")](https://www.instagram.com/suello.dev/)
+
+<img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=drone&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="VIM">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
