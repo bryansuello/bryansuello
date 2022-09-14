@@ -19,8 +19,9 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=339933&style=for-the-badge&logoWidth=30" alt="VIM" style="dispay:inline;">
-<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=339933&style=for-the-badge&logoWidth=30" alt="HTML" style="dispay:inline;">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left">
+<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left">
+<img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left">
 
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
