@@ -19,11 +19,22 @@
 
 ### <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-technology-technology-dreamstale-lineal-dreamstale.png" width="10px" /> Languages and Tools:
 
-<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left">
-<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left">
-<img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left">
-<img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left">
-<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT"  align="left">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="REACT"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="NODE"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MONGODB"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHP"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LARAVEL"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-BASH-052465?logo=bash&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=photoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=illustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR"  align="left" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA"  align="left" style="padding-right:10px;">
 
 <!--
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
