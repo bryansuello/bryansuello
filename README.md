@@ -69,17 +69,13 @@
 -->
 
 ### 📊
-[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card" align="left" /></a>
 <br>
 ___
 <em>"Let your results do the talking."</em>
   
 
-###  
-###
 <!-- KOBE -->
-<br>
-<div>
-  <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="500px" align="center" />
-</div>
+  <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="250px" align="center" />
+
