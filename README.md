@@ -75,7 +75,7 @@
 ___
 <em>"Let your results do the talking."</em>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?bryansuello=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
 
 <!-- KOBE -->
 <div>
