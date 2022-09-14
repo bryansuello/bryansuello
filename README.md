@@ -19,7 +19,7 @@
 
 ### Languages and Tools:
 
-<img src="https://img.shields.io/badge/-NodeJS-F3F7FA?logo=vim&logoColor=339933&style=for-the-badge&logoWidth=30" alt="VIM">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=ECCC6A&style=for-the-badge&logoWidth=30" alt="VIM">
 
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
