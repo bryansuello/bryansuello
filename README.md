@@ -18,9 +18,8 @@
 ### 💻 Languages and Tools:
 
 <div style="display:flex; padding: 2px;">
-  <img src="https://img.shields.io/badge/-VIM-052465?logo=vim&style=for-the-badge&logoWidth=30" alt="VIM">
-<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM">
-<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=019733&style=for-the-badge&logoWidth=30" alt="VIM">
+<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS">
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS">
 <img src="https://img.shields.io/badge/-BOOTSTRAP-052465?logo=bootstrap&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BOOTSTRAP">
