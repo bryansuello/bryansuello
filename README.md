@@ -11,6 +11,7 @@
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.dev/)
 &nbsp;&nbsp;
+[![instagram](<img src="https://img.shields.io/badge/-WEBSITE-eccc6a?logo=vim&logoColor=019733&style=for-the-badge&logoWidth=30" alt="VIM">)(https://www.instagram.com/suello.dev/)
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
