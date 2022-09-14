@@ -13,9 +13,7 @@
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
 ### <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-technology-technology-dreamstale-lineal-dreamstale.png" width="10px" /> Languages and Tools:
 
@@ -25,7 +23,7 @@
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left" style="padding: 10px 4px;">
   <img src="https://img.shields.io/badge/-BOOTSTRAP-052465?logo=bootstrap&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BOOTSTRAP"  align="left" style="padding: 10px 4px;">
-  <img src="https://img.shields.io/badge/-TAILWIND-052465?logo=tailwind&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TAILWIND"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-TAILWIND-052465?logo=tailwindcss&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TAILWIND"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT"  align="left" style="padding: 10px 4px;">
   <img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT"  align="left" style="padding: 10px 4px;">
   </div>
@@ -68,8 +66,8 @@
 -->
 
 <br><br><br>
-
-<a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
+<a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/ align="left" ></a>
 
 ___
 <em>"Let your results do the talking."</em>
