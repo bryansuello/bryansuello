@@ -20,7 +20,7 @@
 ### <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-technology-technology-dreamstale-lineal-dreamstale.png" width="10px" /> Languages and Tools:
 
 <div style="display:flex; padding: 2px;">
-<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left" style="padding: 10px 4px;">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left" style="padding-right: 2px;">
 <img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left" style="padding: 10px 4px;">
@@ -35,6 +35,9 @@
 <img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LUA"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-VIMSCRIPT-052465?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MARKDOWN"  align="left" style="padding: 10px 4px;">
   </div>
   <div>
 <img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP"  align="left" style="margin: 10px 4px;">
