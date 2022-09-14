@@ -39,4 +39,4 @@
 
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/></a>
 
-<span style="text-align:center;"><em>"Let your results do the talking."</em></span>
+<p style="text-align: center;"><em>"Let your results do the talking."</em></p>
