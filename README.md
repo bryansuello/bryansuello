@@ -13,6 +13,8 @@
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
+
 
 ### Languages and Tools:
 
@@ -35,6 +37,3 @@
 
 <br><br><br><br><br>
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/></a>
-
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
