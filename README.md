@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=61DAFB&style=for-the-badge&logoWidth=30" alt="REACT">
 <img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=339933&style=for-the-badge&logoWidth=30" alt="NODE">
 <img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=47A248&style=for-the-badge&logoWidth=30" alt="MONGODB">
-<img src="https://img.shields.io/badge/-EXPRESS-052465?logo=express&logoColor=000000style=for-the-badge&logoWidth=30" alt="EXPRESS">
+<img src="https://img.shields.io/badge/-EXPRESS-052465?logo=express&logoColor=000000&style=for-the-badge&logoWidth=30" alt="EXPRESS">
 <img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=777BB4&style=for-the-badge&logoWidth=30" alt="PHP">
 <img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=FF2D20&style=for-the-badge&logoWidth=30" alt="LARAVEL">
   </div>
