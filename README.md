@@ -73,7 +73,7 @@
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card" align="left" /></a>
 <br>
 ___
-<em>"Let your results do the talking."</em>
+<!-- <em>"Let your results do the talking."</em> -->
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
 
