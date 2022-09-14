@@ -77,7 +77,7 @@ ___
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
 
 <!-- KOBE -->
-<div>
+<div style="text-align: center;">
   <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="230px" align="left" />
   <em>"Let your results do the talking."</em>
   <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" height="123px" align="center" padding-right="20px" />
