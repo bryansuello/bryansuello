@@ -17,7 +17,7 @@
 
 ### 💻 Languages and Tools:
 
-<div style="display:flex; padding: 2px;">
+<div style="display:flex; padding: 2px; color:#eccc6a;">
 <img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=019733&style=for-the-badge&logoWidth=30" alt="VIM">
 <img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=E34F26&style=for-the-badge&logoWidth=30" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=1572B6&style=for-the-badge&logoWidth=30" alt="CSS">
