@@ -18,8 +18,8 @@
 ### <img src="https://img.icons8.com/external-dreamstale-lineal-dreamstale/32/000000/external-technology-technology-dreamstale-lineal-dreamstale.png" width="10px" /> Languages and Tools:
 
 <div style="display:flex; padding: 2px;">
-<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left" style="padding-right: 2px;">
-<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left" style="padding: 10px 4px;">
+<img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM">
+<img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML">
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left" style="padding: 10px 4px;">
   <img src="https://img.shields.io/badge/-BOOTSTRAP-052465?logo=bootstrap&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BOOTSTRAP"  align="left" style="padding: 10px 4px;">
