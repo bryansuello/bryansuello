@@ -13,9 +13,6 @@
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
-
-
-
 ### Languages and Tools:
 
 <img align="left" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />
