@@ -13,7 +13,9 @@
 &nbsp;&nbsp;
 [![behance](./behance.png)](https://www.behance.net/bryansuello)
 
-<img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=drone&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="VIM">
+<img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dungeons&dragons&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="WEBSITE">
+<img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM">
+<img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE">
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
