@@ -7,15 +7,17 @@
 
 ### 🌐 Connect with me:
 
-[<img src="./logo.png" width="35px">](https://bryansuello.dev)
+<!-- [<img src="./logo.png" width="35px">](https://bryansuello.dev)
 &nbsp;&nbsp;
 [![instagram](./insta.png)](https://www.instagram.com/suello.dev/)
 &nbsp;&nbsp;
-[![behance](./behance.png)](https://www.behance.net/bryansuello)
+[![behance](./behance.png)](https://www.behance.net/bryansuello) -->
 
-<img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dungeons&dragons&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="WEBSITE">
-<img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM">
-<img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE">
+<div>
+<a href="https://bryansuello.dev><img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dragonframe&logoColor=ED1C24&style=for-the-badge&logoWidth=30" alt="WEBSITE"></a>
+<a href="https://www.instagram.com/suello.dev/"><img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM"></a>
+<a href="https://www.behance.net/bryansuello/"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE"></a>
+</div>
 
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
