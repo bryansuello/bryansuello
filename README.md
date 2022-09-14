@@ -17,7 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats)
 
-### Languages and Tools:
+### <img src="https://img.icons8.com/stickers/100/000000/my-computer.png"/> Languages and Tools:
 
 <img src="https://img.shields.io/badge/-VIM-052465?logo=vim&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIM"  align="left">
 <img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left">
