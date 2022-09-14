@@ -24,7 +24,10 @@
 <img src="https://img.shields.io/badge/-HTML-052465?logo=html5&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="HTML"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-CSS-052465?logo=css3&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="CSS"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-BOOTSTRAP-052465?logo=bootstrap&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BOOTSTRAP"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-TAILWIND-052465?logo=tailwind&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TAILWIND"  align="left" style="padding: 10px 4px;">
 <img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT"  align="left" style="padding: 10px 4px;">
+  <img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT"  align="left" style="padding: 10px 4px;">
   </div>
   <div>
 <img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="REACT"  align="left" style="padding: 10px 4px;">
