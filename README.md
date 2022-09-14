@@ -38,3 +38,5 @@
 <br><br><br><br>
 
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card"/></a>
+
+<h5 style="text-align:center; font-style:italics">"Let your results do the talking."</h5>
