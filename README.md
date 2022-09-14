@@ -24,26 +24,26 @@
 <img src="https://img.shields.io/badge/-SASS-052465?logo=sass&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="SASS">
 <img src="https://img.shields.io/badge/-BOOTSTRAP-052465?logo=bootstrap&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BOOTSTRAP">
 <img src="https://img.shields.io/badge/-TAILWIND-052465?logo=tailwindcss&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TAILWIND">
-<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT">
-<img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT">
-</div>
-<div>
-<img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="REACT">
-<img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="NODE">
-<img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MONGODB"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHP"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LARAVEL"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX"  align="left" style="padding: 10px 4px;">
-<img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH"  align="left" style="padding: 10px 4px;">
-  <img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LUA"  align="left" style="padding: 10px 4px;">
-  <img src="https://img.shields.io/badge/-VIMSCRIPT-052465?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT"  align="left" style="padding: 10px 4px;">
-  <img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MARKDOWN"  align="left" style="padding: 10px 4px;">
   </div>
   <div>
-<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP"  align="left" style="margin: 10px 4px;">
-<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=adobeillustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR"  align="left" style="margin: 10px 4px;">
-<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA"  align="left" style="margin: 10px 4px;">
+<img src="https://img.shields.io/badge/-JAVASCRIPT-052465?logo=javascript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="JAVASCRIPT">
+<img src="https://img.shields.io/badge/-TYPESCRIPT-052465?logo=typescript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="TYPESCRIPT">
+<img src="https://img.shields.io/badge/-REACT-052465?logo=react&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="REACT">
+<img src="https://img.shields.io/badge/-NODE-052465?logo=node.js&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="NODE">
+<img src="https://img.shields.io/badge/-MONGODB-052465?logo=mongodb&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MONGODB">
+<img src="https://img.shields.io/badge/-PHP-052465?logo=php&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHP">
+<img src="https://img.shields.io/badge/-LARAVEL-052465?logo=laravel&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LARAVEL">
+<img src="https://img.shields.io/badge/-GIT-052465?logo=git&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="GIT">
+<img src="https://img.shields.io/badge/-LINUX-052465?logo=linux&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LINUX">
+<img src="https://img.shields.io/badge/-BASH-052465?logo=gnometerminal&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="BASH">
+<img src="https://img.shields.io/badge/-LUA-052465?logo=lua&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="LUA">
+<img src="https://img.shields.io/badge/-VIMSCRIPT-052465?logo=vimscript&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="VIMSCRIPT">
+<img src="https://img.shields.io/badge/-MARKDOWN-052465?logo=markdown&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="MARKDOWN">
+  </div>
+  <div>
+<img src="https://img.shields.io/badge/-PHOTOSHOP-052465?logo=adobephotoshop&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="PHOTOSHOP">
+<img src="https://img.shields.io/badge/-ILLUSTRATOR-052465?logo=adobeillustrator&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="ILLUSTRATOR">
+<img src="https://img.shields.io/badge/-FIGMA-052465?logo=figma&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="FIGMA">
   </div>
 
 <!--
