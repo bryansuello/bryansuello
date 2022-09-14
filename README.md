@@ -77,8 +77,10 @@ ___
   
 
 <!-- KOBE -->
+<div>
   <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="230px" align="center" />
-  <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" align="left" />
+  <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" align="center" />
+  </div>
  
   <img src="./github-footer.jpg" />
 
