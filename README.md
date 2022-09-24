@@ -90,4 +90,6 @@ ___
 </div>
  
   <img src="./github-footer.jpg" />
+  
+  <img src="https://www.codewars.com/users/bryansuello/badges/large?logo=false" >
 
