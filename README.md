@@ -19,6 +19,7 @@
 <a href="https://www.behance.net/bryansuello/" target="_blank"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE" ></a>
 </div>
 
+<img src="https://www.codewars.com/users/bryansuello/badges/small" alt="codewars badge" />
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
 ### 💻 Languages and Tools:
@@ -73,8 +74,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 -->
-
-<img src="https://www.codewars.com/users/bryansuello/badges/small" />
 
 ### 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
