@@ -74,6 +74,8 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 -->
 
+<img src="https://www.codewars.com/users/bryansuello/badges/small ">
+
 ### 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
 <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card" align="left" /></a>
@@ -90,6 +92,3 @@ ___
 </div>
  
   <img src="./github-footer.jpg" />
-  
-  <img src="https://www.codewars.com/users/bryansuello/badges/large?logo=false" >
-
