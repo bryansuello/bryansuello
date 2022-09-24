@@ -74,7 +74,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 -->
 
-<img src="https://www.codewars.com/users/bryansuello/badges/small ">
+<img src="https://www.codewars.com/users/bryansuello/badges/small" />
 
 ### 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
