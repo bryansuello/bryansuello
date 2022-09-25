@@ -19,6 +19,7 @@
 <a href="https://www.behance.net/bryansuello/" target="_blank"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE" ></a>
 </div>
 
+<br>
 <img src="https://www.codewars.com/users/bryansuello/badges/small" alt="codewars badge" />
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
