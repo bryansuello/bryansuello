@@ -80,7 +80,7 @@
 <a href="https://app.daily.dev/bryansuello"><img src="https://api.daily.dev/devcards/v2/40DSWepWkHzuuYJ3GsWAb.png?type=default&r=mnr" width="300" alt="Bryan Suello's Dev Card"/></a>
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
 <!-- OLD DEV CARD <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card" align="left" /></a> -->
-<br>
+
 ___
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
