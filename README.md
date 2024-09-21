@@ -1,7 +1,7 @@
 
 <img alt="banner" width="100%" src="./github-banner.jpg" />
 
-# I'm [Bryan](https://bryansuello.dev) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
+# I'm [Bryan](https://bryansuello.tech) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
 ## Full-Stack Web Developer
 
@@ -14,7 +14,7 @@
 [![behance](./behance.png)](https://www.behance.net/bryansuello) -->
 
 <div>
-<a href="https://bryansuello.dev/" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dragonframe&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="WEBSITE" ></a>
+<a href="https://bryansuello.tech/" target="_blank"><img src="https://img.shields.io/badge/-WEBSITE-ffffff?logo=dragonframe&logoColor=eccc6a&style=for-the-badge&logoWidth=30" alt="WEBSITE" ></a>
 <a href="https://www.instagram.com/suello.dev/" target="_blank"><img src="https://img.shields.io/badge/-INSTAGRAM-ffffff?logo=instagram&logoColor=E4405F&style=for-the-badge&logoWidth=30" alt="INSTAGRAM" ></a>
 <a href="https://www.behance.net/bryansuello/" target="_blank"><img src="https://img.shields.io/badge/-BEHANCE-ffffff?logo=behance&logoColor=1769FF&style=for-the-badge&logoWidth=30" alt="BEHANCE" ></a>
 </div>
