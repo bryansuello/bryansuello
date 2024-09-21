@@ -77,10 +77,10 @@
 -->
 
 ### 📊
-<a href="https://app.daily.dev/bryansuello"><img src="https://api.daily.dev/devcards/v2/40DSWepWkHzuuYJ3GsWAb.png?type=wide&r=bvc" width="652" alt="Bryan Suello's Dev Card"/></a>
-___
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
+___
+<a href="https://app.daily.dev/bryansuello"><img src="https://api.daily.dev/devcards/v2/40DSWepWkHzuuYJ3GsWAb.png?type=wide&r=bvc" width="652" alt="Bryan Suello's Dev Card"/></a>
 <!-- OLD DEV CARD <a href="https://app.daily.dev/brys"><img src="https://github.com/bryansuello/bryansuello/blob/main/devcard.svg" width="300" alt="suello.tech's Dev Card" align="left" /></a> -->
 
 
