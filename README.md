@@ -1,5 +1,5 @@
 
-<img alt="banner" width="100%" src="./github-banner.jpg" />
+<img alt="banner" width="100%" src="./github-banner-9-29-24.jpg" />
 
 # I'm [Bryan](https://bryansuello.tech) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
@@ -95,4 +95,4 @@ ___
  <!-- <em><strong><p style="padding: 10px;">"Let your results do the talking."</p></strong></em> 
 </div> --> 
  
-  <img src="./github-footer.jpg" />
+  <img src="./github-footer-9-29-24.jpg" />
