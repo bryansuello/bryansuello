@@ -79,7 +79,7 @@
 
 ### 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=default)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats) -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bryansuello&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) -->
 &nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
