@@ -80,7 +80,7 @@
 ### 📊
 [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=default)](https://git.io/streak-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=elegant)](https://git.io/streak-stats) -->
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bryansuello&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)    -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=bryansuello&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats) -->
 &nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryansuello&layout=compact)](https://github.com/bryansuello/github-readme-stats)
 ___
@@ -91,7 +91,7 @@ ___
   
   <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=bryansuello&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-<!-- KOBE -->
+
 <!-- <div>
   <img src="https://media1.giphy.com/media/LZ17sunUmZfr2/giphy.gif?cid=ecf05e472i9bferlp4tyuqljtz657yt3vhnwr8t49is2r0vx&rid=giphy.gif&ct=g" width="230px" align="left" />
   <img src="https://media2.giphy.com/media/VXJWhaO7afRe/200.gif" width="230px" height="123px" /> -->
