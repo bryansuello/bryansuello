@@ -3,7 +3,7 @@
 
 # I'm [Bryan](https://bryansuello.tech) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-## Full-Stack Web Developer
+## Full-Stack Developer
 
 ### 🌐 Connect with me:
 
