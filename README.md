@@ -24,7 +24,7 @@
 <img src="https://www.codewars.com/users/bryansuello/badges/small" alt="codewars badge" />
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=bryansuello&theme=gruvbox_duo)](https://git.io/streak-stats) -->
 
-### 💻 Languages and Tools:
+### 💻 Languages & Tools:
 
 <div>
 <img src="https://img.shields.io/badge/-VIM-eccc6a?logo=vim&logoColor=019733&style=for-the-badge&logoWidth=30" alt="VIM">
@@ -98,4 +98,4 @@ ___
  <!-- <em><strong><p style="padding: 10px;">"Let your results do the talking."</p></strong></em> 
 </div> --> 
  
-  <img src="./github-footer-9-29-24.png" />
+<img src="./github-footer-9-29-24.png" />
